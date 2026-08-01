@@ -1,4 +1,4 @@
-package Hashing;
+package Basics.Hashing;
 import java.util.*;
 public class MostFreqEle {
     public static void main(String[] args) {

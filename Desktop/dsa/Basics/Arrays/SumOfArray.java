@@ -1,4 +1,4 @@
-package Arrays;
+package Basics.Arrays;
 public class SumOfArray {
     public static void main(String[] args) {
         int arr[] = {2,3,5,6,8};

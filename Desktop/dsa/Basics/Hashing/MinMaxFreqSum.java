@@ -1,4 +1,4 @@
-package Hashing;
+package Basics.Hashing;
 import java.util.HashMap;
 
 public class MinMaxFreqSum {
