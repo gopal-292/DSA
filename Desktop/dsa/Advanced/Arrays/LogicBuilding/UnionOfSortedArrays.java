@@ -1,4 +1,4 @@
-package Advanced.LogicBuilding;
+package LogicBuilding;
 
 import java.util.TreeSet;
 

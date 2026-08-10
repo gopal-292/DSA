@@ -24,5 +24,22 @@ public class PascalsTriangleIII {
             } 
             System.out.println();
         }
+
+        //OPTIMAL APP
+        // int cnt = 0;
+        // int ele = 0;
+        // for(int i = 0;i < nums.length;i++) {
+        //     if(cnt == 0) {
+        //         ele = nums[i];
+        //         cnt++;
+        //     }
+        //     else if(nums[i] == ele) {
+        //         cnt++;
+        //     }
+        //     else {
+        //         cnt--;
+        //     }
+        // }
+        // return cnt > 0 ? ele : -1;
     }    
 }

@@ -1,4 +1,4 @@
-package Advanced.LogicBuilding;
+package LogicBuilding;
 
 public class RemoveDuplicatesFromSorted {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package Fundementals;
 public class LinearSearch {
     public static void main(String[] args) {
         int[] nums = {5,7,3,5,6};
