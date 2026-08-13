@@ -1,4 +1,5 @@
-class 3sum {
+import java.util.*;
+class ThreeSum {
     public static void main(String[] args) {
         int[] nums = {2, -2, 0, 3, -3, 5};
         int n = nums.length;
@@ -34,6 +35,12 @@ class 3sum {
                     left++;
                 }
             }
+        }
+        for(List<Integer> l : list) {
+            for(int i : l) {
+                System.out.print(i + " ");
+            }
+            System.out.println();
         }
     }
 }
