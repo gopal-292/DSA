@@ -33,6 +33,6 @@ public class MaxProductSubArray {
             }
             ans = Math.max(ans,max);
         }
-        System.out.println("Maximum Product of SubArray : " + ans);
+        System.out.println("Maximum Product of SubArray : " + ans   );
     }
 }
